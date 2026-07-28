@@ -35,7 +35,7 @@ A browser extension that reveals the real cost of products beyond their advertis
 
 ---
 
-# Future Projects
+# In Development
 
 ### 💼 Career OS
 An AI-powered career platform focused on trusted job discovery, resume intelligence, and application management.
