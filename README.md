@@ -1,54 +1,60 @@
 # JafriLabs
 
-> **Independent AI Systems Engineer | Turning complex ideas into production-ready AI systems.**
+> **Independent AI Systems Engineer**
 
-JafriLabs is my independent portfolio of AI systems built to solve real-world problems across compliance, research, automation, developer productivity, and digital intelligence.
+> Building production-ready AI systems that solve real-world problems.
 
-Rather than building isolated AI demos, I design complete production-ready systems with a focus on reliability, scalability, and practical business value.
+JafriLabs is my portfolio of independently designed and developed AI systems spanning healthcare, compliance, research, automation, developer productivity, and business intelligence.
+
+My focus is building complete products—not prototypes—combining AI, software engineering, and automation into reliable systems designed for real users.
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 ### 🎥 DeclassifiedYT
-An autonomous AI documentary production system that transforms research topics into upload-ready long-form YouTube content.
+An autonomous AI documentary production platform that transforms research topics into upload-ready long-form YouTube videos.
 
 ### 🏥 MedPipe
-An AI-powered medical education pipeline for automated clinical content generation and video production.
+An AI-powered medical education pipeline that automates research, content generation, narration, and video production.
 
 ### 🇬🇧 CheckMyMTD
 A UK tax compliance platform helping businesses understand and prepare for Making Tax Digital.
 
 ### 📊 Review Monitor
-An AI-powered reputation intelligence platform for monitoring, analyzing, and managing customer reviews.
+An AI-powered review intelligence platform for monitoring, analysing, and managing online reputation.
 
 ### 🎨 BrandLab
-AI-assisted branding and identity generation platform for businesses and startups.
+An AI-assisted branding platform for generating business identities and brand assets.
 
 ### 🛠 ToolPeak
-Developer productivity platform providing practical AI-powered utilities and tools.
+A collection of AI-powered tools built to improve developer productivity and everyday workflows.
 
 ### 💰 True Cost
-Browser extension that reveals the true cost of products beyond the listed price.
+A browser extension that reveals the real cost of products beyond their advertised price.
+
+---
+
+# Future Projects
 
 ### 💼 Career OS
 An AI-powered career platform focused on trusted job discovery, resume intelligence, and application management.
 
 ---
 
-## Engineering Philosophy
+# Engineering Philosophy
 
-- Build complete systems, not isolated features.
-- Design for production, not prototypes.
-- Solve practical business problems with AI.
-- Prioritize reliability, scalability, and maintainability.
-- Protect intellectual property while delivering commercial value.
+- Build systems, not isolated features.
+- Design for production from day one.
+- Prioritise reliability, scalability, and maintainability.
+- Solve practical business problems using AI.
+- Create software that delivers measurable value.
 
 ---
 
-## Technologies
+# Core Technologies
 
-**Languages**
+### Languages
 - Python
 - JavaScript
 - TypeScript
@@ -56,44 +62,44 @@ An AI-powered career platform focused on trusted job discovery, resume intellige
 - CSS3
 - SQL
 
-**AI**
+### AI
 - OpenAI API
 - Claude API
 - Google Gemini API
 - Prompt Engineering
-- LLM Orchestration
+- AI Workflow Orchestration
 
-**Backend**
-- Flask
+### Backend
 - FastAPI
+- Flask
 - REST APIs
 - PostgreSQL
 - Supabase
 
-**Frontend**
+### Frontend
 - React
 - Next.js
 
-**Infrastructure**
-- Docker
+### Infrastructure
 - Railway
 - Cloudflare
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-## Source Code
+# Source Code
 
-Most projects in this portfolio are commercial products.
+The majority of the projects featured here are commercial products.
 
-The source code, internal architecture, prompts, workflows, and proprietary implementation details are intentionally kept private.
+Their source code, internal architecture, automation workflows, AI prompts, and implementation details remain proprietary.
 
-Public repositories are provided as technical showcases demonstrating the problems solved, system architecture, and engineering approach without exposing intellectual property.
+Public repositories are intended to showcase product architecture, engineering decisions, and technical capability without exposing commercial intellectual property.
 
 ---
 
-## Contact
+# Contact
 
-Interested in collaboration, licensing, consulting, or AI systems engineering?
+For collaborations, consulting, licensing, or AI systems engineering opportunities:
 
-Feel free to connect through my GitHub profile.
+📧 hello@checkmymtd.co.uk
