@@ -6,29 +6,34 @@
 
 JafriLabs is my portfolio of independently designed and developed AI systems spanning healthcare, compliance, research, automation, developer productivity, and business intelligence.
 
-My focus is building complete products—not prototypes—combining AI, software engineering, and automation into reliable systems designed for real users.
+My focus is building complete products, not prototypes, combining AI, software engineering, and automation into reliable systems designed for real users. I design the architecture and every product decision myself, and direct AI tools for implementation.
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/jafri101/)
 
 ---
 
 # Featured Projects
 
-### 🎥 DeclassifiedYT
-An autonomous AI documentary production platform that transforms research topics into upload-ready long-form YouTube videos.
+### 🇬🇧 CheckMyMTD — Live
+A UK tax compliance platform helping sole traders and small businesses understand and prepare for Making Tax Digital.
+🔗 [checkmymtd.co.uk](https://checkmymtd.co.uk)
 
-### 🏥 MedPipe
-An AI-powered medical education pipeline that automates research, content generation, narration, and video production.
-
-### 🇬🇧 CheckMyMTD
-A UK tax compliance platform helping businesses understand and prepare for Making Tax Digital.
-
-### 📊 Review Monitor
+### 📊 Review Monitor — Live
 An AI-powered review intelligence platform for monitoring, analysing, and managing online reputation.
 
-### 🎨 BrandLab
+### 🎨 BrandLab — Live
 An AI-assisted branding platform for generating business identities and brand assets.
 
-### 🛠 ToolPeak
-A collection of AI-powered tools built to improve developer productivity and everyday workflows.
+### 🎥 DeclassifiedYT
+An autonomous AI documentary production platform that transforms research topics into upload-ready long-form YouTube videos, with a built-in source-verification layer (FACT LOCK) that checks every AI-generated claim against a real document.
+🔗 [Case study](https://jafri101.github.io/declassifiedyt-casestudy/)
+
+### 🏥 MedPipe
+An AI-powered medical education pipeline that automates research, content generation, narration, and video production, built on the same core architecture as DeclassifiedYT.
+🔗 [Case study](https://jafri101.github.io/medpipe-casestudy/)
+
+### 🛠 Tools Web
+A large client-side browser utility platform — around 90 tools, all processing happens in the browser, nothing touches a server.
 
 ### 💰 True Cost
 A browser extension that reveals the real cost of products beyond their advertised price.
@@ -39,6 +44,12 @@ A browser extension that reveals the real cost of products beyond their advertis
 
 ### 💼 Career OS
 An AI-powered career platform focused on trusted job discovery, resume intelligence, and application management.
+
+### 🧊 2D → 3D Web Converter
+A tool for turning standard websites into interactive 3D experiences.
+
+### 🍽️ FoodMood
+An AI app that tracks how food affects energy and mood, beyond just calorie counting — combining AI food scanning, USDA-verified nutrient data, and personal pattern detection. Built with Expo, Supabase, and Gemini.
 
 ---
 
@@ -67,7 +78,8 @@ An AI-powered career platform focused on trusted job discovery, resume intellige
 - Claude API
 - Google Gemini API
 - Prompt Engineering
-- AI Workflow Orchestration
+- Multi-Model AI Orchestration
+- AI Workflow Architecture
 
 ### Backend
 - FastAPI
@@ -79,12 +91,11 @@ An AI-powered career platform focused on trusted job discovery, resume intellige
 ### Frontend
 - React
 - Next.js
+- React Native / Expo
 
 ### Infrastructure
-- Railway
-- Cloudflare
-- Git
-- GitHub
+- Cloudflare Workers & Pages
+- Git / GitHub
 
 ---
 
@@ -103,3 +114,4 @@ Public repositories are intended to showcase product architecture, engineering d
 For collaborations, consulting, licensing, or AI systems engineering opportunities:
 
 📧 hello@checkmymtd.co.uk
+🔗 [LinkedIn](https://www.linkedin.com/in/jafri101/)
