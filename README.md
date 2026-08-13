@@ -24,7 +24,7 @@ Watches a business's Google Maps listing and alerts on new negative reviews, wit
 
 ### 🎨 BrandLab — Live
 A phonetic domain name generator. Builds pronounceable, brandable names syllable by syllable and checks live .com availability against the public registry. Fully deterministic — no AI, nothing stored.
-🔗 [domain.brandlab.workers.dev](https://domain.brandlab.workers.dev/)
+🔗 [Live demo](https://domain.brandlab.workers.dev/) · [Source](https://github.com/scrappygmail/brandlab)
 
 ### 🎥 DeclassifiedYT
 An autonomous AI documentary production platform that transforms research topics into upload-ready long-form YouTube videos, with a built-in source-verification layer (FACT LOCK) that checks every AI-generated claim against a real document.
