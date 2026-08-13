@@ -19,7 +19,7 @@ A UK tax compliance platform helping sole traders and small businesses understan
 🔗 [checkmymtd.co.uk](https://checkmymtd.co.uk)
 
 ### 📊 Review Monitor — Live
-An AI-powered review intelligence platform for monitoring, analysing, and managing online reputation.
+Watches a business's Google Maps listing and alerts on new negative reviews, with a saved watch-list and notification system.
 
 ### 🎨 BrandLab — Live
 A phonetic domain name generator. Builds pronounceable, brandable names syllable by syllable and checks live .com availability against the public registry. Fully deterministic — no AI, nothing stored.
