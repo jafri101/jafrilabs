@@ -22,7 +22,7 @@ A UK tax compliance platform helping sole traders and small businesses understan
 An AI-powered review intelligence platform for monitoring, analysing, and managing online reputation.
 
 ### 🎨 BrandLab — Live
-An AI-assisted branding platform for generating business identities and brand assets.
+A phonetic domain name generator. Builds pronounceable, brandable names syllable by syllable and checks live .com availability against the public registry. Fully deterministic — no AI, nothing stored.
 
 ### 🎥 DeclassifiedYT
 An autonomous AI documentary production platform that transforms research topics into upload-ready long-form YouTube videos, with a built-in source-verification layer (FACT LOCK) that checks every AI-generated claim against a real document.
