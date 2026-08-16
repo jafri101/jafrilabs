@@ -2,11 +2,9 @@
 
 > **Independent AI Systems Engineer**
 
-> Building production-ready AI systems that solve real-world problems.
+I design and build production AI systems end to end — architecture, implementation, and deployment — and direct AI tools for implementation while owning every product decision myself.
 
-JafriLabs is my portfolio of independently designed and developed AI systems spanning healthcare, compliance, research, automation, developer productivity, and business intelligence.
-
-My focus is building complete products, not prototypes, combining AI, software engineering, and automation into reliable systems designed for real users. I design the architecture and every product decision myself, and direct AI tools for implementation.
+JafriLabs is my portfolio: AI automation, compliance, developer tooling, and consumer products, spanning healthcare, tax compliance, research, and business intelligence.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/jafri101/)
 
@@ -23,16 +21,24 @@ Watches a business's Google Maps listing and alerts on new negative reviews, wit
 🔗 [reviewmonitor.pages.dev](https://reviewmonitor.pages.dev/)
 
 ### 🎨 BrandLab — Live
-A phonetic domain name generator. Builds pronounceable, brandable names syllable by syllable and checks live .com availability against the public registry. Fully deterministic — no AI, nothing stored.
-🔗 [Live demo](https://domain.brandlab.workers.dev/) · [Source](https://github.com/scrappygmail/brandlab)
+A deterministic brand-name generation and scoring engine. Builds pronounceable, brandable names and scores any name across explainable, algorithmic dimensions — pronunciation, dictionary clash, rhythm, visual balance. No AI required for any score; live domain availability checked against the public registry.
+🔗 [Live demo](https://brandlab.pages.dev/) · [Source](https://github.com/scrappygmail/brandlab)
 
 ### 🎥 DeclassifiedYT
-An autonomous AI documentary production platform that transforms research topics into upload-ready long-form YouTube videos, with a built-in source-verification layer (FACT LOCK) that checks every AI-generated claim against a real document.
+An autonomous AI documentary pipeline that turns a research topic into an upload-ready long-form video with no human step in between — including FACT LOCK, a source-verification layer that checks every AI-generated claim against a real document before it reaches the script.
 🔗 [Case study](https://jafri101.github.io/declassifiedyt-casestudy/)
 
 ### 🏥 MedPipe
-An AI-powered medical education pipeline that automates research, content generation, narration, and video production, built on the same core architecture as DeclassifiedYT.
+An AI-powered medical education pipeline built on the same core architecture as DeclassifiedYT, with a server-side prompt backend that keeps proprietary logic protected while AI calls route through the customer's own API key.
 🔗 [Case study](https://jafri101.github.io/medpipe-casestudy/)
+
+### 🍽️ FoodMood
+An AI app that tracks how food affects energy and mood, beyond calorie counting — combining AI food scanning, USDA-verified nutrient data, and personal pattern detection. Built with Expo, Supabase, and Gemini.
+🔗 [Source](https://github.com/foodmood101/foodmood)
+
+---
+
+# In Development
 
 ### 🛠 Tools Web
 A large client-side browser utility platform — around 90 tools, all processing happens in the browser, nothing touches a server.
@@ -40,19 +46,11 @@ A large client-side browser utility platform — around 90 tools, all processing
 ### 💰 True Cost
 A browser extension that reveals the real cost of products beyond their advertised price.
 
----
-
-# In Development
-
 ### 💼 Career OS
 An AI-powered career platform focused on trusted job discovery, resume intelligence, and application management.
 
 ### 🧊 2D → 3D Web Converter
 A tool for turning standard websites into interactive 3D experiences.
-
-### 🍽️ FoodMood
-An AI app that tracks how food affects energy and mood, beyond just calorie counting — combining AI food scanning, USDA-verified nutrient data, and personal pattern detection. Built with Expo, Supabase, and Gemini.
-🔗 [Source](https://github.com/foodmood101/foodmood)
 
 ---
 
@@ -69,52 +67,31 @@ An AI app that tracks how food affects energy and mood, beyond just calorie coun
 # Core Technologies
 
 ### Languages
-- Python
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- SQL
+Python · JavaScript · TypeScript · HTML5 · CSS3 · SQL
 
 ### AI
-- OpenAI API
-- Claude API
-- Google Gemini API
-- Prompt Engineering
-- Multi-Model AI Orchestration
-- AI Workflow Architecture
+OpenAI API · Claude API · Google Gemini API · Prompt Engineering · Multi-Model AI Orchestration · AI Workflow Architecture
 
 ### Backend
-- FastAPI
-- Flask
-- REST APIs
-- PostgreSQL
-- Supabase
+FastAPI · Flask · REST APIs · PostgreSQL · Supabase
 
 ### Frontend
-- React
-- Next.js
-- React Native / Expo
+React · Next.js · React Native / Expo
 
 ### Infrastructure
-- Cloudflare Workers & Pages
-- Git / GitHub
+Cloudflare Workers & Pages · Git / GitHub
 
 ---
 
 # Source Code
 
-The majority of the projects featured here are commercial products.
-
-Their source code, internal architecture, automation workflows, AI prompts, and implementation details remain proprietary.
-
-Public repositories are intended to showcase product architecture, engineering decisions, and technical capability without exposing commercial intellectual property.
+Most projects here are commercial products. Their internal architecture, automation workflows, AI prompts, and implementation details remain proprietary. Public repositories are intended to showcase product architecture, engineering decisions, and technical capability — not to expose commercial IP.
 
 ---
 
 # Contact
 
-For collaborations, consulting, licensing, or AI systems engineering opportunities:
+For collaborations, consulting, or full-time AI systems engineering opportunities:
 
 📧 hello@checkmymtd.co.uk
 🔗 [LinkedIn](https://www.linkedin.com/in/jafri101/)
