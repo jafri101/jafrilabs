@@ -22,7 +22,7 @@ Watches a business's Google Maps listing and alerts on new negative reviews, wit
 
 ### 🎨 BrandLab — Live
 A deterministic brand-name generation and scoring engine. Builds pronounceable, brandable names and scores any name across explainable, algorithmic dimensions — pronunciation, dictionary clash, rhythm, visual balance. No AI required for any score; live domain availability checked against the public registry.
-🔗 [Live demo](https://brandlab.pages.dev/) · [Source](https://github.com/scrappygmail/brandlab)
+🔗 [brandlab.pages.dev](https://brandlab.pages.dev/)
 
 ### 🎥 DeclassifiedYT
 An autonomous AI documentary pipeline that turns a research topic into an upload-ready long-form video with no human step in between — including FACT LOCK, a source-verification layer that checks every AI-generated claim against a real document before it reaches the script.
