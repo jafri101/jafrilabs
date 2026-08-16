@@ -52,6 +52,7 @@ A tool for turning standard websites into interactive 3D experiences.
 
 ### 🍽️ FoodMood
 An AI app that tracks how food affects energy and mood, beyond just calorie counting — combining AI food scanning, USDA-verified nutrient data, and personal pattern detection. Built with Expo, Supabase, and Gemini.
+🔗 [Source](https://github.com/foodmood101/foodmood)
 
 ---
 
