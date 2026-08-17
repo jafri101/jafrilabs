@@ -74,7 +74,7 @@ A one-click system for transforming conventional websites into interactive 3D we
 
 The project explores DOM/scene extraction, semantic reconstruction, Three.js/WebGL rendering, interaction mapping, and performance-constrained visual transformation.
 Currently in active development.
----
+
 
 # Engineering Philosophy
 
