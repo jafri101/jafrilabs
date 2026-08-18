@@ -23,14 +23,16 @@ Built end-to-end, including a 92-page information architecture, decision-based c
 A reputation-monitoring system for businesses that watches Google Maps listings for new negative reviews and surfaces them through saved watch-lists and notifications.
 
 Built as an automated monitoring workflow rather than a manual review dashboard.
-🔗 [reviewmonitor.pages.dev](https://reviewmonitor.pages.dev/) · [Source](https://github.com/scrappygmail/reviewmonitor)
+🔗 [reviewmonitor.pages.dev](https://reviewmonitor.pages.dev/)
+- [GitHub](https://github.com/scrappygmail/reviewmonitor)
 
 ### 🎨 BrandLab
 
 A deterministic brand-name generation and scoring engine built around transparent, explainable rules rather than an AI black box.
 
 The system combines multiple generation techniques with scoring across pronunciation, dictionary clashes, rhythm, and visual balance, with live domain availability checked through public RDAP.
-🔗 [brandlab.pages.dev](https://brandlab.pages.dev/) · [Source](https://github.com/scrappygmail/brandlab)
+🔗 [brandlab.pages.dev](https://brandlab.pages.dev/)
+- [GitHub](https://github.com/scrappygmail/brandlab)
 
 ### 🎥 DeclassifiedYT
 
