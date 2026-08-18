@@ -53,7 +53,7 @@ The core prompt logic remains server-side while AI calls are routed through the 
 ### 🍽️ FoodMood
 
 An AI app that tracks how food affects energy and mood, beyond calorie counting — combining AI food scanning, USDA-verified nutrient data, and personal pattern detection. Built with Expo, Supabase, and Gemini.
-🔗 [Source](https://github.com/foodmood101/foodmood)
+🔗 [GitHub](https://github.com/foodmood101/foodmood)
 
 ---
 
